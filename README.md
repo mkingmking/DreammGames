@@ -11,7 +11,10 @@ src/main/java: Contains Java source code for backend services, including control
 src/main/resources: Contains configuration files, including application properties and database scripts.
 src/test: Contains unit tests for various components of the backend system.
 
-#API Endpoints:
+
+API Endpoints:
+
+
 
 
 /api/users: Create and update user progress.
