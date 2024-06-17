@@ -13,5 +13,5 @@ src/test: Contains unit tests for various components of the backend system.
 
 API Endpoints
 /api/users: Create and update user progress.
-/api/tournaments: Participate in tournaments and claim rewards.
-/api/leaderboards: Retrieve leaderboard data for tournament groups and countries.
+/api/tournaments: Participate in tournaments and claim rewards
+/api/leaderboards: Retrieve leaderboard data for tournament groups and countries
