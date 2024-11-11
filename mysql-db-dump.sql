@@ -15,6 +15,7 @@ CREATE TABLE IF NOT EXISTS Tournament (
 );
 
 
+
 CREATE TABLE IF NOT EXISTS TournamentGroup (
     id INT AUTO_INCREMENT PRIMARY KEY,
     tournament_id INT NOT NULL,
