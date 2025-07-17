@@ -20,6 +20,7 @@ public class TournamentService {
     @Autowired
     private TournamentParticipantRepository participantRepository;
 
+    @Autowired
     private UserRepository userRepository;
 
     public TournamentGroup enterTournament(Long userId) {
